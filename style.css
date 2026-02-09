@@ -395,24 +395,10 @@ footer .questions {
     font-size: 14px;
 }
 
-/* country text */
+
 .location {
     margin-bottom: 25px;
     font-size: 14px;
     color: #999;
 }
 
-/* captcha text */
-.recaptcha {
-    font-size: 13px;
-    color: #8c8c8c;
-}
-
-.recaptcha a {
-    color: #0071eb;
-    text-decoration: none;
-}
-
-.recaptcha a:hover {
-    text-decoration: underline;
-}
